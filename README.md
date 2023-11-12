@@ -1,37 +1,73 @@
 # Interview ML Academy
 
-The goal of this to perform analysis on the data, perform feature engineering, train a model and prepare a presentation for all the development. 
+You are working in a newly established start-up developing a cutting edge app powered by machine learning and generative AI that helps the wine industry🍷. In order to grow there are multiple challenges that you should tackle.
 
-## Wine prices dataset
+## First challenge: Elevator pitch & Presentation preparation
 
-alcohol - nivelul de alcool al vinului
+First challenge is to prepare an elevator pitch supported by a powerpoint presentation that will explain the business problem your app is trying to solve. You will meet the board of directors of a Large Corporate customer named *AA Wine Savy Inc.* and you need to impress them in order to select you for a POC (proof of concept).
 
-category - culoarea vinului
+### Challenge details
 
-country - tara de provenienta
+**Allocated time for preparation**: 30 minutes
 
-description - descriere a vinului
+**Presentation time in front of BOD**: 3 minutes
 
-designation - titlu dat vinului (de obicei bazat pe calitate)
+**Deliverables**: explaining the problem, logo, start-up company name, marketing approach
 
-rating - scorul vinului pe o scara de la 1-100
+## Second challenge: Machine Learning Model Preparation
 
-region - regiunea
+Congratulation you have been selected for a POC🥳! Now you should implement a solution for the presented dataset in this repository using a jupyter notebooks to document your findings regarding data analysis, machine learning models that you try on the problem and test results. You should also use the best performing model to predict results on the test dataset. 
 
-subregion - subregiune
+### Wine prices dataset description
 
-subsubregion - subregiune specifica
+alcohol - alcohol level of the wine
 
-title - numele vinului
+category - wine color
 
-url - link vin
+country - origin country
 
-varietal - soiul vinului
+description - wine description
 
-vintage - anul producerii vinului
+designation - title given to the wine(usually based on its quality)
 
-winety - crama/vinaria
+rating - wine score on a scale from 1 to 100
 
-stars - scorul vinului pe o scara de la 1-5
+region - wine region
 
-price_class - clasa de pret a vinului
+subregion - wine subregion
+
+subsubregion - specific subregion of the wine
+
+title - name of the wine
+
+varietal - wine variety
+
+vintage - year of production for the wine
+
+winety - the wine cellar for the current wine
+
+stars - score for the wine on a scale from 1 to 5
+
+price_class - a class describing how expensive the wine is
+
+### Challenge details
+
+**Allocated time for preparation**: 2 hours
+
+**Deliverables**: data analysis, feature engineering, model training and evaluation
+
+You will collaborate with and allocated mentor from the *AA Wine Savy Inc.*
+
+## Third challenge: Presentation and Demo preparation
+
+Now you will soon present again your POC findings to the BOD of *AA Wine Savy Inc.*. Work on preparing a presentation and developing an app for the demo.
+
+**Bonus points**: having a nice GUI, incorporate other features, use text features in your models.
+
+### Challenge details
+
+**Allocated time for preparation**: 1 hour
+
+**Presentation time in front of BOD**: 5 minutes presentation pitch + questions
+
+**Deliverables**: presenting all the development and the POC demo
